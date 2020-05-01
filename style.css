@@ -1,0 +1,41 @@
+
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    font-size: 1.6rem;
+    line-height: 1.6;
+    font-family: 'Source Sans Pro';
+    background-color: rgb(245, 245, 245);
+}
+
+.container {
+	margin: 80px auto;
+	width: 90%;
+	max-width: 800px;
+
+}
+
+.registration {
+	background-color: #fff;
+	max-width: 600px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.3);
+}
+
+input {
+  width: 90%;
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+input:focus {
+  border-color: green
+}
+
