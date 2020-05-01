@@ -1,6 +1,7 @@
 Three ways to format the phone number in the United States.
 
 The three ways are as following:
+
 	1- xxx-xxx-xxxx    for example: 646-789-1231
 		The - will be added after the third number and the 6th number.
 		You will be allowed to enter only 10 number, letters will not be allowed.
